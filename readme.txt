@@ -3,4 +3,4 @@ Git is free software.
 add some words.
 test for 分支BRANCH dev.
 test for conflicts.
-just for .
+just for branch strategy
